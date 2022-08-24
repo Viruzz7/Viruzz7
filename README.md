@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Viruzz7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Viruz
+- 👀 I’m interested in ...frontend development
+- 🌱 I’m currently learning ...HTML/CSS/JAVASCRIPT
+
+- 📫 How to reach me ...twitter
 
 <!---
 Viruzz7/Viruzz7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
